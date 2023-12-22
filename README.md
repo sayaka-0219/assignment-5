@@ -134,13 +134,12 @@ HTTPリクエストメッセージの本文の部分で、クライアントが�
 - カンマで区切ると、キーと値の組み合わせを複数記述できる  
 
 (例)  
-```
-{  
-"dogname":"kotetu", 
-"catname":"komugi"  
+```json
+{
+  "dogname":"kotetu",
+  "catname":"komugi"
 }
 ```  
-  
 # 参照　　
 [「わかりそう」で「わからない」でも「分かった」気になれるIT用語](https://wa3.i-3-i.info/index.html)  
 [Qiita](https://qiita.com/)
